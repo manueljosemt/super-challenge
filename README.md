@@ -1,6 +1,6 @@
 # Pasos a seguir para el backend: NESTJS + POSTGRESQL
 
-`npm i
+`npm i`
 
 `npm run build `
 
