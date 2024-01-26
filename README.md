@@ -22,6 +22,10 @@ user: user-name
 password: strong-password
 ```
 
+#### Test end to end
+`npm run test:e2e`
+
+
 # Pasos a seguir para el frontend: NEXTJS
 
 `npm i`
